@@ -1,4 +1,4 @@
-package liucaihao.creative.Prototype;
+package liucaihao.creative.prototype;
 
 /**
  * 要实现复杂对象深复制需要复杂对象也实现Cloneable接口

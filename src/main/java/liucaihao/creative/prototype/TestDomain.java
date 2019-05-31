@@ -1,4 +1,4 @@
-package liucaihao.creative.Prototype;
+package liucaihao.creative.prototype;
 
 import java.util.Date;
 
