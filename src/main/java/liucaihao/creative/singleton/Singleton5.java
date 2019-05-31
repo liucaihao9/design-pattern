@@ -1,4 +1,4 @@
-package liucaihao.behavior.singleton;
+package liucaihao.creative.singleton;
 
 /**
  * 使用内部枚举维护单例变量，可以防止反序列化创建新的对象

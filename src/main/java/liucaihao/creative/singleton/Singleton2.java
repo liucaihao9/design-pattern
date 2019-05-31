@@ -1,4 +1,4 @@
-package liucaihao.behavior.singleton;
+package liucaihao.creative.singleton;
 
 /**
  * 使用延迟加载，当真正需要单例的时候才去实例化

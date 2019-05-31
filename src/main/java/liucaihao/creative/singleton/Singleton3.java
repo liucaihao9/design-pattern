@@ -1,4 +1,4 @@
-package liucaihao.behavior.singleton;
+package liucaihao.creative.singleton;
 
 /**
  * 这种方法（双重检查）相比整个方法加锁性能会更好，并发情况下大部分线程都不需要加锁

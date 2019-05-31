@@ -1,4 +1,4 @@
-package liucaihao.behavior.singleton;
+package liucaihao.creative.singleton;
 
 /**
  * 单例模式-饿汉模式

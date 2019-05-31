@@ -1,4 +1,4 @@
-package liucaihao.behavior.factorymethod;
+package liucaihao.creative.factorymethod;
 
 public class HuaweiPhone implements Phone{
     @Override

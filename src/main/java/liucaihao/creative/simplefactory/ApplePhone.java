@@ -1,4 +1,5 @@
-package liucaihao.behavior.factorymethod;
+package liucaihao.creative.simplefactory;
+
 
 /**
  * 苹果手机，具体的产品

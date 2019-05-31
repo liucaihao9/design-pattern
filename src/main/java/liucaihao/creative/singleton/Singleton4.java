@@ -1,4 +1,4 @@
-package liucaihao.behavior.singleton;
+package liucaihao.creative.singleton;
 
 /**
  * 静态内部类持有单例，调用getInstance返回内部类的持有对象

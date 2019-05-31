@@ -1,4 +1,4 @@
-package liucaihao.behavior.factorymethod;
+package liucaihao.creative.factorymethod;
 
 /**
  * 苹果手机工厂，具体工厂实现，返回苹果手机
